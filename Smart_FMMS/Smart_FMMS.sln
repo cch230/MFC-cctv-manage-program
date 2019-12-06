@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Smart_FMMS", "Smart_FMMS\Smart_FMMS.vcxproj", "{B6E907B0-6742-429C-A9A8-0928F8A1165D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E907B0-6742-429C-A9A8-0928F8A1165D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6E907B0-6742-429C-A9A8-0928F8A1165D}.Debug|Win32.Build.0 = Debug|Win32
+		{B6E907B0-6742-429C-A9A8-0928F8A1165D}.Release|Win32.ActiveCfg = Release|Win32
+		{B6E907B0-6742-429C-A9A8-0928F8A1165D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
